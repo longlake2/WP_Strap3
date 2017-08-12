@@ -1,0 +1,23 @@
+{
+  "name": "wp_strap3",
+  "version": "1.0.0",
+  "homepage": "",
+  "description": "Bootstrap 3 WordPress theme",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Mike Hart"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+ "dependencies": {
+    "bootstrap-sass": "latest",
+    "fontawesome": "latest"
+  }
+} 

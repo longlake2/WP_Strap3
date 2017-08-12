@@ -1,0 +1,27 @@
+
+
+{
+  "name": "WP_Strap3",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 WordPress theme",
+  "main": "gulpfile.js",
+  "author": "Mike Hart",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-bower": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-include": "latest",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "latest",
+    "gulp-notify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "latest",
+    "gulp-zip": "latest",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "latest"
+  }
+}
